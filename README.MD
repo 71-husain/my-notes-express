@@ -2,7 +2,8 @@
 
 Simple Express Notes App
 
-### Created by : Prof. Shiburaj
+Created by : Prof. Shiburaj
+### fork by : Ansari Husain for deployment using EC2 and RDS
 
 ## Steps to Deply
 - Fork this Repo
